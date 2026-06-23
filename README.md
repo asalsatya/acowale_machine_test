@@ -1,8 +1,8 @@
 # Acowale CRM (Machine Test Submission)
 
 ## Live Links
-- **Live App:** .vercel.app
-- **API Health Check:** url/health
+- **Live App:** [acowalemachinetest.vercel.app](acowalemachinetest.vercel.app)
+- **API Health Check:** [https://acowalemachinetest-production.up.railway.app/health](https://acowalemachinetest-production.up.railway.app/health)
 - **Source Code:** [This repository](#)
 
 ## Related Documents
@@ -33,8 +33,8 @@ You only need Node.js installed on your machine to run this project locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/acowale-crm.git
-cd acowale-crm
+git clone https://github.com/asalsatya/acowale_machine_test
+cd acowale_machine_test
 ```
 
 ### 2. Start the Backend Server (Terminal 1)
@@ -71,7 +71,7 @@ Navigate to: **http://localhost:5173/admin**
 This page is intended for administrators to manage feedback. 
 
 **Login Credentials:**
-Use the `ADMIN_API_KEY` value from your `.env` file. By default, this is `admin`.
+Use the `ADMIN_API_KEY` value from your `.env` file. By default, this is `admin`. This is the Test ADMIN_KEY - 123456@pass
 
 ---
 
