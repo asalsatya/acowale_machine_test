@@ -185,4 +185,12 @@ Both applications can be deployed to modern cloud hosting platforms.
 5. Set Environment Variable: `VITE_API_BASE_URL` pointing to your deployed backend URL.
 
 
+### Screen previews
+
+<img width="1912" height="982" alt="image" src="https://github.com/user-attachments/assets/5075a0ba-bd41-4b75-9cf0-663aa9c41b76" />
+<img width="1911" height="960" alt="image" src="https://github.com/user-attachments/assets/b04c1a97-dba7-4e90-8fb0-0b63a2f9dd4d" />
+<img width="1917" height="977" alt="image" src="https://github.com/user-attachments/assets/3dff7ffb-2d6d-4aa5-b47d-d3658a1588fa" />
+<img width="1917" height="983" alt="image" src="https://github.com/user-attachments/assets/9491009b-918c-48f8-a04b-b79406fea6d6" />
+
+and more...
 
