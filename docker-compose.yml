@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  server:
+    build:
+      context: ./server
+    ports:
+      - "4000:4000"
+    volumes:
+      - sqlite_data:/app/data
+    env_file:
+      - ./server/.env
+    environment:
+      - DB_PATH=/app/data/crm.db
+
+  client:
+    build:
+      context: ./client
+    ports:
+      - "5173:80"
+    depends_on:
+      - server
+
+volumes:
+  sqlite_data:
